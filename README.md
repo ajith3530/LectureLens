@@ -8,3 +8,7 @@ Category 3: Who don’t attend any classes, for them this can be an extension of
 
 BITS Admins will be able to review the course content video which can span upto 30 hours per course in just a matter of an hour to see if the topics being taught are inline with the curriculum requirements.
 
+# Execution Instructions
+Change the parameters in main.py -> __main__ section and execute.
+Note: This tool would not run without an openAI API key stored as an environment variable in your environment (refer openai_config.py)
+
