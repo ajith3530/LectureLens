@@ -23,7 +23,7 @@ class LectureLens:
 
 
 if __name__ == '__main__':
-    filepath = r"/Users/ajith/PycharmProjects/LectureLens/transcripts/hscd_transcript.vtt"
+    filepath = r"/Users/ajith/PycharmProjects/LectureLens/transcripts/transcript.vtt"
     print("Starting Application")
     time.sleep(5)
     app_init = LectureLens(rtt_transcript=filepath)
